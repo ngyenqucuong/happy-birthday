@@ -1,15 +1,15 @@
 {
   "greeting": "Hê lô hê lô",
-  "name": "Anh Đắc",
+  "name": "Mr.Đắc",
   "greetingText": "Mừng người anh em Đắc đến với Hội Thánh Sự sống mới",
   "wishText": "May the God be with you",
   "imagePath": "img/dac1.png",
-  "text1": "Mừng anh Đắc sinh nhật thêm tuổi mới!!! :D",
+  "text1": "Mừng Mr.Đắc sinh nhật thêm tuổi mới!!! :D",
   "textInChatBox": "Chúc mừng sính nhật!! Yeee! chúc anh tuổi mới...",
   "sendButtonLabel": "Gửi",
-  "text2": "Em cũng tính làm như vậy.",
+  "text2": "Cũng tính làm như vậy.",
   "text3": "Nhưng mà vậy chán lắm.",
-  "text4": "Em muốn làm gì đó",
+  "text4": "Phải có gì đó",
   "text4Adjective": "Đặc biệt",
   "text5Entry": "Bởi vì,",
   "text5Content": "Anh em là thân của Đấng Christ, và mỗi cá nhân là một chi thể. 1 Cô 12:27",
@@ -17,7 +17,7 @@
   "bigTextPart1": "N",
   "bigTextPart2": "Ê",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Nhớ feedback lại cho em nha.",
+  "outroText": "",
   "replayText": "Click nếu muốn xem lại.",
   "outroSmiley": ":)"
 }
